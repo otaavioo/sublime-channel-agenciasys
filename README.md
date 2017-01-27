@@ -1,11 +1,11 @@
 # sublime-channel-agenciasys
-Agrupamento dos principais plugins usados no sistema [Agência Sys](https://github.com/agenciasys)
+Agrupamento dos principais plugins usados no sistema [Agência Sys](https://github.com/agenciasys).
 
 ### Configuration
 To configure:
 
 1. Type <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> to open *Command Palette*, then write `add channel`
-2. Paste the link `https://raw.githubusercontent.com/otaavioo/sublime-channel-agenciasys/master/channel_v3.json` on bottom box, then press *enter*
+2. Paste the link `https://raw.githubusercontent.com/otaavioo/sublime-channel-agenciasys/master/channel.json` on bottom box, then press *enter*
 3. Type <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd>, then write `install package`
 4. Done, the most used plugins on [Agência Sys](https://github.com/agenciasys) are going to show on the screen.
 
