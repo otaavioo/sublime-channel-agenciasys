@@ -1020,27 +1020,52 @@
             "description": "Is a plugin for sublime text 2/3 for checking CSS property support",
             "homepage": "http://azd325.github.io/sublime-text-caniuse/"
         }, {
-            "name": "Case Conversion",
-            "issues": "https://github.com/jdc0589/CaseConversion/issues",
-            "authors": [
-                "jdc0589"
-            ],
-            "buy": null,
+            "description": "Case conversion plugin (pascal, camel, snake) for sublime text 2",
             "previous_names": [],
-            "labels": [],
+            "homepage": "https://github.com/jdc0589/CaseConversion",
+            "donate": null,
             "readme": "https://raw.githubusercontent.com/jdc0589/CaseConversion/master/readme.md",
+            "buy": null,
+            "name": "Case Conversion",
             "releases": [{
-                "date": "2015-10-02 21:19:52",
-                "version": "2015.10.02.21.19.52",
                 "sublime_text": "*",
                 "platforms": [
                     "*"
                 ],
-                "url": "https://codeload.github.com/jdc0589/CaseConversion/zip/master"
+                "url": "https://codeload.github.com/jdc0589/CaseConversion/zip/master",
+                "version": "2015.10.02.21.19.52",
+                "date": "2015-10-02 21:19:52"
             }],
+            "issues": "https://github.com/jdc0589/CaseConversion/issues",
+            "labels": [],
+            "authors": [
+                "jdc0589"
+            ]
+        }, {
+            "description": "CSS Formatting for Sublime Text",
+            "previous_names": [],
+            "homepage": "http://mutian.github.io/Sublime-CSS-Format/",
             "donate": null,
-            "description": "Case conversion plugin (pascal, camel, snake) for sublime text 2",
-            "homepage": "https://github.com/jdc0589/CaseConversion"
+            "readme": "https://raw.githubusercontent.com/mutian/Sublime-CSS-Format/master/README.md",
+            "buy": null,
+            "name": "CSS Format",
+            "releases": [{
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/mutian/Sublime-CSS-Format/zip/master",
+                "version": "2015.09.17.02.52.20",
+                "date": "2015-09-17 02:52:20"
+            }],
+            "issues": "https://github.com/mutian/Sublime-CSS-Format/issues",
+            "labels": [
+                "css",
+                "formatting"
+            ],
+            "authors": [
+                "mutian"
+            ]
         }, {
             "name": "CSS Format",
             "issues": "https://github.com/mutian/Sublime-CSS-Format/issues",
@@ -1134,6 +1159,54 @@
             "description": "Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++",
             "homepage": "https://github.com/spadgos/sublime-jsdocs"
         }, {
+            "description": "Syntax Highlighting support for Environment (.env) Files",
+            "previous_names": [],
+            "homepage": "https://github.com/zaynali53/DotENV",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/zaynali53/DotENV/master/README.md",
+            "buy": null,
+            "name": "DotENV",
+            "releases": [{
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/zaynali53/DotENV/zip/2.0.1",
+                "version": "2.0.1",
+                "date": "2016-06-13 09:48:39"
+            }, {
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/zaynali53/DotENV/zip/1.2.2",
+                "version": "1.2.2",
+                "date": "2016-06-08 23:25:35"
+            }, {
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/zaynali53/DotENV/zip/1.1.1",
+                "version": "1.1.1",
+                "date": "2016-01-07 23:26:44"
+            }, {
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/zaynali53/DotENV/zip/1.0.0",
+                "version": "1.0.0",
+                "date": "2016-01-03 16:49:06"
+            }],
+            "issues": "https://github.com/zaynali53/DotENV/issues",
+            "labels": [
+                "language syntax"
+            ],
+            "authors": [
+                "zaynali53"
+            ]
+        }, {
             "name": "EditorConfig",
             "issues": "https://github.com/sindresorhus/editorconfig-sublime/issues",
             "authors": [
@@ -1161,6 +1234,40 @@
             "donate": null,
             "description": "Helps developers maintain consistent coding styles between different editors - Sublime Text plugin",
             "homepage": "https://github.com/sindresorhus/editorconfig-sublime"
+        }, {
+            "description": "Github emoji in markdown documents and commit messages for Sublime Text 3",
+            "previous_names": [],
+            "homepage": "https://github.com/akatopo/GithubEmoji",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/akatopo/GithubEmoji/master/README.md",
+            "buy": null,
+            "name": "GithubEmoji",
+            "releases": [{
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/akatopo/GithubEmoji/zip/1.1.5",
+                "version": "1.1.5",
+                "date": "2016-10-03 10:29:45"
+            }, {
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/akatopo/GithubEmoji/zip/1.0.0",
+                "version": "1.0.0",
+                "date": "2015-10-02 18:09:06"
+            }],
+            "issues": "https://github.com/akatopo/GithubEmoji/issues",
+            "labels": [
+                "emoji",
+                "github",
+                "markdown"
+            ],
+            "authors": [
+                "akatopo"
+            ]
         }, {
             "name": "Gist",
             "issues": "https://github.com/condemil/Gist/issues",
@@ -1277,6 +1384,43 @@
             "description": "A plugin for Sublime Text that formats (indents) HTML source code. It makes code easier for humans to read.",
             "homepage": "https://github.com/rareyman/HTMLBeautify"
         }, {
+            "description": "Quick function parameter hint for Sublime 3.x.",
+            "previous_names": [],
+            "homepage": "https://github.com/shortcutme/Sublime-IntelliDocs",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/shortcutme/Sublime-IntelliDocs/master/README.md",
+            "buy": null,
+            "name": "IntelliDocs",
+            "releases": [{
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/shortcutme/Sublime-IntelliDocs/zip/1.1.6",
+                "version": "1.1.6",
+                "date": "2014-03-18 11:52:59"
+            }, {
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/shortcutme/Sublime-IntelliDocs/zip/1.0.0",
+                "version": "1.0.0",
+                "date": "2014-03-02 16:36:02"
+            }],
+            "issues": "https://github.com/shortcutme/Sublime-IntelliDocs/issues",
+            "labels": [
+                "auto-complete",
+                "completion",
+                "help",
+                "hint",
+                "php",
+                "python"
+            ],
+            "authors": [
+                "shortcutme"
+            ]
+        }, {
             "name": "Javascript Beautify",
             "issues": "https://github.com/enginespot/js-beautify-sublime/issues",
             "authors": [
@@ -1387,6 +1531,30 @@
             "donate": null,
             "description": "Find a keymap for... and show all enabled keymaps in a Cheat Sheet.",
             "homepage": "https://github.com/MiroHibler/sublime-keymaps"
+        }, {
+            "description": "Markdown preview plugin for Sublime Text 3 using Strapdown.js. No server-side processing is required as Strapdown.js is purely browser-based Markdown converter using Twitter Bootstrap for theming support.",
+            "previous_names": [
+                "Strapdown.js Markdown Preview"
+            ],
+            "homepage": "https://github.com/michfield/sublime-strapdown-preview",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/michfield/sublime-strapdown-preview/master/README.md",
+            "buy": null,
+            "name": "Strapdown Markdown Preview",
+            "releases": [{
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/michfield/sublime-strapdown-preview/zip/master",
+                "version": "2015.02.27.18.23.45",
+                "date": "2015-02-27 18:23:45"
+            }],
+            "issues": "https://github.com/michfield/sublime-strapdown-preview/issues",
+            "labels": [],
+            "authors": [
+                "michfield"
+            ]
         }, {
             "name": "nginx",
             "issues": "https://github.com/brandonwamboldt/sublime-nginx/issues",
@@ -1515,6 +1683,28 @@
             "donate": null,
             "description": "A set of completions for the Phalcon PHP Framework made for Sublime Text 3",
             "homepage": "https://github.com/james2doyle/phalconphp-completions"
+        }, {
+            "description": "This is a plugin for Sublime Text 3 that gives the option to run the phpcbf",
+            "previous_names": [],
+            "homepage": "https://github.com/Ennosuke/PHP-Codebeautifier",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/Ennosuke/PHP-Codebeautifier/master/README.md",
+            "buy": null,
+            "name": "PHP Codebeautifier",
+            "releases": [{
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/Ennosuke/PHP-Codebeautifier/zip/v1.0.2",
+                "version": "1.0.2",
+                "date": "2015-11-19 19:28:22"
+            }],
+            "issues": "https://github.com/Ennosuke/PHP-Codebeautifier/issues",
+            "labels": [],
+            "authors": [
+                "Ennosuke"
+            ]
         }, {
             "name": "PHP Companion",
             "issues": "https://github.com/erichard/SublimePHPCompanion/issues",
@@ -1776,6 +1966,36 @@
             "description": "A \"3 in 1\" package to use PHP Namespaces with SublimeText 2 and 3",
             "homepage": "http://lubriciousdevelopers.github.io/projects/sublime-php-namespace"
         }, {
+            "description": "Autocomplete functionallity for PHPUnit assertions.",
+            "previous_names": [],
+            "homepage": "https://github.com/tkowalewski/phpunit-sublime-completions",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/tkowalewski/phpunit-sublime-completions/master/README.md",
+            "buy": null,
+            "name": "PHPUnit Completions",
+            "releases": [{
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/tkowalewski/phpunit-sublime-completions/zip/0.11.1",
+                "version": "0.11.1",
+                "date": "2016-10-28 17:46:24"
+            }, {
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/tkowalewski/phpunit-sublime-completions/zip/0.10.0",
+                "version": "0.10.0",
+                "date": "2016-05-15 10:42:33"
+            }],
+            "issues": "https://github.com/tkowalewski/phpunit-sublime-completions/issues",
+            "labels": [],
+            "authors": [
+                "tkowalewski"
+            ]
+        }, {
             "name": "PlainTasks",
             "issues": "https://github.com/aziz/PlainTasks/issues",
             "authors": [
@@ -1962,6 +2182,28 @@
             "description": "Enhancements to Sublime Text sidebar. Files and folders.",
             "homepage": "https://github.com/SideBarEnhancements-org/SideBarEnhancements"
         }, {
+            "description": "Sublime Text 3 plugin for PHPUnit",
+            "previous_names": [],
+            "homepage": "https://github.com/evgeny-golubev/SimplePHPUnit-for-Sublime-Text",
+            "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SZ6YWJUGFM9J8",
+            "readme": "https://raw.githubusercontent.com/evgeny-golubev/SimplePHPUnit-for-Sublime-Text/master/README.md",
+            "buy": null,
+            "name": "SimplePHPUnit",
+            "releases": [{
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/evgeny-golubev/SimplePHPUnit-for-Sublime-Text/zip/master",
+                "version": "2014.02.16.20.20.49",
+                "date": "2014-02-16 20:20:49"
+            }],
+            "issues": "https://github.com/evgeny-golubev/SimplePHPUnit-for-Sublime-Text/issues",
+            "labels": [],
+            "authors": [
+                "evgeny-golubev"
+            ]
+        }, {
             "name": "Slack",
             "issues": "https://github.com/simion/sublime-slack-integration/issues",
             "authors": [
@@ -2072,6 +2314,50 @@
             "description": "Code snippets for KnockoutJS",
             "homepage": "https://github.com/aaronpowell/Sublime-KnockoutJS-Snippets"
         }, {
+            "description": "Git integration for Sublime Text 2 and 3",
+            "previous_names": [],
+            "homepage": "https://sublimegit.readthedocs.io",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/SublimeGit/SublimeGit/master/README.md",
+            "buy": null,
+            "name": "SublimeGit",
+            "releases": [{
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/SublimeGit/SublimeGit/zip/1.0.36",
+                "version": "1.0.36",
+                "date": "2016-03-27 20:37:30"
+            }],
+            "issues": "https://github.com/SublimeGit/SublimeGit/issues",
+            "labels": [],
+            "authors": [
+                "SublimeGit"
+            ]
+        }, {
+            "description": "Google plugin for sublime text.",
+            "previous_names": [],
+            "homepage": "https://github.com/a1fred/SublimeGoogle",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/a1fred/SublimeGoogle/master/README.md",
+            "buy": null,
+            "name": "SublimeGoogle",
+            "releases": [{
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/a1fred/SublimeGoogle/zip/master",
+                "version": "2014.01.07.07.27.35",
+                "date": "2014-01-07 07:27:35"
+            }],
+            "issues": "https://github.com/a1fred/SublimeGoogle/issues",
+            "labels": [],
+            "authors": [
+                "a1fred"
+            ]
+        }, {
             "name": "Volt",
             "issues": "https://github.com/phalcon/volt-sublime-textmate/issues",
             "authors": [
@@ -2095,6 +2381,44 @@
             "donate": null,
             "description": "Volt syntax highlight for Sublime Text 2/Textmate",
             "homepage": "https://github.com/phalcon/volt-sublime-textmate"
+        }, {
+            "description": "ST2/3 plugin for quick navigation in YAML files.",
+            "previous_names": [],
+            "homepage": "https://github.com/ddiachkov/sublime-yaml-nav",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/ddiachkov/sublime-yaml-nav/master/README.md",
+            "buy": null,
+            "name": "YAML Nav",
+            "releases": [{
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/ddiachkov/sublime-yaml-nav/zip/v1.4.0",
+                "version": "1.4.0",
+                "date": "2016-03-13 11:02:17"
+            }, {
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/ddiachkov/sublime-yaml-nav/zip/v1.3.2",
+                "version": "1.3.2",
+                "date": "2016-03-12 19:13:31"
+            }, {
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/ddiachkov/sublime-yaml-nav/zip/v1.2.0",
+                "version": "1.2.0",
+                "date": "2014-07-07 23:56:20"
+            }],
+            "issues": "https://github.com/ddiachkov/sublime-yaml-nav/issues",
+            "labels": [],
+            "authors": [
+                "ddiachkov"
+            ]
         }, {
             "name": "Xdebug Client",
             "issues": "https://github.com/martomo/SublimeTextXdebug/issues",
@@ -2120,7 +2444,105 @@
             "donate": null,
             "description": "Xdebug debugger client for Sublime Text 2 and 3",
             "homepage": "https://github.com/martomo/SublimeTextXdebug"
-        }]
+        }, {
+            "description": "Sublime Text Highlighter ",
+            "previous_names": [],
+            "homepage": "https://github.com/phalcon/zephir-sublime",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/phalcon/zephir-sublime/master/README.md",
+            "buy": null,
+            "name": "Zephir",
+            "releases": [{
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/phalcon/zephir-sublime/zip/master",
+                "version": "2016.08.10.17.58.42",
+                "date": "2016-08-10 17:58:42"
+            }],
+            "issues": "https://github.com/phalcon/zephir-sublime/issues",
+            "labels": [
+                "language syntax"
+            ],
+            "authors": [
+                "The Phalcon Team"
+            ]
+        }],
+        "https://raw.githubusercontent.com/randy3k/sublime_packages/master/packages.json": [{
+            "description": "An alignment plugin using regular expression",
+            "previous_names": [],
+            "homepage": "https://github.com/randy3k/AlignTab",
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/randy3k/AlignTab/master/README.md",
+            "buy": null,
+            "name": "AlignTab",
+            "releases": [{
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/randy3k/AlignTab/zip/st3-2.1.5",
+                "version": "2.1.5",
+                "date": "2016-12-11 05:59:23"
+            }, {
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/randy3k/AlignTab/zip/st2-1.2.5",
+                "version": "1.2.5",
+                "date": "2014-08-14 19:33:10"
+            }],
+            "issues": "https://github.com/randy3k/AlignTab/issues",
+            "labels": [],
+            "authors": [
+                "randy3k"
+            ]
+        }],
+        "https://raw.githubusercontent.com/SublimeCodeIntel/SublimeCodeIntel/master/packages.json": [{
+            "description": "Full-featured code intelligence and smart autocomplete engine",
+            "previous_names": [],
+            "homepage": "http://sublimecodeintel.github.io/SublimeCodeIntel/",
+            "donate": "http://sublimecodeintel.github.io/SublimeCodeIntel/donate.html",
+            "readme": "https://raw.githubusercontent.com/SublimeCodeIntel/SublimeCodeIntel/master/README.rst",
+            "buy": null,
+            "name": "SublimeCodeIntel",
+            "releases": [{
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://github.com/SublimeCodeIntel/SublimeCodeIntel/archive/v3.0.0-beta6.zip",
+                "version": "3.0.0-beta6",
+                "date": "2015-11-07 00:00:00"
+            }, {
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://github.com/SublimeCodeIntel/SublimeCodeIntel/archive/v2.2.0+st3.zip",
+                "version": "2.2.0+st3",
+                "date": "2015-03-26 00:00:00"
+            }, {
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://github.com/SublimeCodeIntel/SublimeCodeIntel/archive/v2.2.0.zip",
+                "version": "2.2.0",
+                "date": "2015-03-26 00:00:00"
+            }],
+            "issues": "https://github.com/SublimeCodeIntel/SublimeCodeIntel/issues",
+            "labels": [
+                "auto-complete",
+                "code navigation",
+                "snippets"
+            ],
+            "authors": [
+                "German M. Bravo (Kronuz)"
+            ]
+        }],
     },
     "schema_version": "3.0.0"
 }
