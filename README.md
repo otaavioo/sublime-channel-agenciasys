@@ -1,5 +1,7 @@
 # sublime-channel-agenciasys
-Agrupamento dos principais plugins usados no sistema [Agência Sys](https://github.com/agenciasys).
+Grouping of principal plugins used on [Agência Sys](https://github.com/agenciasys) system.
+
+At first, make sure you have [Package Control](https://packagecontrol.io/installation) installed.
 
 ### Configuration
 To configure:
