@@ -20,5 +20,4 @@ To remove and go back to original channel:
 
 1. Type <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> to open *Command Palette*, then write `remove channel`
 2. Search for `sublime-channel-agenciasys` and press *enter*
-3. You need now to reload Sublime.
-4. Done
+3. Done, you need now to reload Sublime.
