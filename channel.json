@@ -1,0 +1,2126 @@
+{
+    "dependencies_cache": {
+        "https://packagecontrol.io/repository.json": [{
+            "name": "ctypes",
+            "load_order": "01",
+            "issues": "https://github.com/codexns/sublime-ctypes/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.1",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "linux"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-ctypes/zip/1.0.1"
+            }],
+            "description": "Python _ctypes module"
+        }, {
+            "name": "ordereddict",
+            "load_order": "50",
+            "issues": "https://github.com/packagecontrol/ordereddict/issues",
+            "authors": [
+                "FichteFoll"
+            ],
+            "releases": [{
+                "version": "1.1.0",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/packagecontrol/ordereddict/zip/v1.1.0"
+            }],
+            "description": "Python ordereddict module"
+        }, {
+            "name": "crypt",
+            "load_order": "02",
+            "issues": "https://github.com/adnanyaqoobvirk/sublime-crypt/issues",
+            "authors": [
+                "adnanyaqoobvirk"
+            ],
+            "releases": [{
+                "version": "0.1.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "linux"
+                ],
+                "url": "https://codeload.github.com/adnanyaqoobvirk/sublime-crypt/zip/v0.1.0"
+            }],
+            "description": "Python crypt module"
+        }, {
+            "name": "sassc",
+            "load_order": "50",
+            "issues": "https://github.com/blitzrk/sublime_sassc/issues",
+            "authors": [
+                "blitzrk"
+            ],
+            "releases": [{
+                "version": "3.3.6",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/blitzrk/sublime_sassc/zip/3.3.6"
+            }],
+            "description": "Sassc binaries"
+        }, {
+            "name": "dateutil",
+            "load_order": "50",
+            "issues": "https://github.com/vovkkk/sublime-dateutil/issues",
+            "authors": [
+                "vovkkk"
+            ],
+            "releases": [{
+                "version": "2.6.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/vovkkk/sublime-dateutil/zip/2.6.0"
+            }],
+            "description": "The dateutil module provides powerful extensions to the datetime module available in the Python standard library"
+        }, {
+            "name": "shellenv",
+            "load_order": "10",
+            "issues": "https://github.com/codexns/shellenv/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.4.2",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/codexns/shellenv/zip/1.4.2"
+            }],
+            "description": "Access a user's environmental variables as defined in their shell"
+        }, {
+            "name": "paramiko",
+            "load_order": "51",
+            "issues": "https://github.com/jlegewie/sublime-paramiko/issues",
+            "authors": [
+                "jlegewie"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "osx"
+                ],
+                "url": "https://codeload.github.com/jlegewie/sublime-paramiko/zip/v1.0.0"
+            }],
+            "description": "Python implementation of the SSHv2 protocol - http://paramiko-www.readthedocs.org/en/latest/index.html"
+        }, {
+            "name": "tabulate",
+            "load_order": "01",
+            "issues": "https://github.com/packagecontrol/tabulate/issues",
+            "authors": [
+                "csch0"
+            ],
+            "releases": [{
+                "version": "0.7.5",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/packagecontrol/tabulate/zip/v0.7.5"
+            }],
+            "description": "Python tabulate module"
+        }, {
+            "name": "sqlite3",
+            "load_order": "01",
+            "issues": "https://github.com/codexns/sublime-sqlite3/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.1",
+                "sublime_text": "*",
+                "platforms": [
+                    "windows",
+                    "linux"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-sqlite3/zip/1.0.1"
+            }, {
+                "version": "1.0.1",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "osx"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-sqlite3/zip/1.0.1"
+            }],
+            "description": "Python _sqlite3 module"
+        }, {
+            "name": "PyCrypto",
+            "load_order": "50",
+            "issues": "https://github.com/jlegewie/sublime-PyCrypto/issues",
+            "authors": [
+                "jlegewie"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "osx-x64"
+                ],
+                "url": "https://codeload.github.com/jlegewie/sublime-PyCrypto/zip/v1.0.0"
+            }],
+            "description": "Python Cryptography Toolkit - https://www.dlitz.net/software/pycrypto/"
+        }, {
+            "name": "StyledPopup",
+            "load_order": "50",
+            "issues": "https://github.com/huot25/StyledPopup/issues",
+            "authors": [
+                "huot25"
+            ],
+            "releases": [{
+                "version": "1.0.1",
+                "sublime_text": ">=3070",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/huot25/StyledPopup/zip/1.0.1"
+            }],
+            "description": "Pyton module for Sublime Text to automatically style popups based on active color scheme."
+        }, {
+            "name": "oauthlib",
+            "load_order": "50",
+            "issues": "https://github.com/packagecontrol/oauthlib/issues",
+            "authors": [
+                "csch0"
+            ],
+            "releases": [{
+                "version": "0.7.2",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/packagecontrol/oauthlib/zip/v0.7.2"
+            }],
+            "description": "Python oauthlib module"
+        }, {
+            "name": "lxml",
+            "load_order": "10",
+            "issues": "https://github.com/eerohele/sublime-lxml/issues",
+            "authors": [
+                "eerohele"
+            ],
+            "releases": [{
+                "version": "0.3.0",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "osx-x64",
+                    "linux-x64",
+                    "windows-x64",
+                    "windows-x32"
+                ],
+                "url": "https://codeload.github.com/eerohele/sublime-lxml/zip/0.3.0"
+            }],
+            "description": "lxml"
+        }, {
+            "name": "pyyaml",
+            "load_order": "50",
+            "issues": "https://github.com/packagecontrol/pyyaml/issues",
+            "authors": [
+                "FichteFoll"
+            ],
+            "releases": [{
+                "version": "3.12.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/packagecontrol/pyyaml/zip/v3.12.0"
+            }],
+            "description": "Python PyYAML module"
+        }, {
+            "name": "gntp",
+            "load_order": "50",
+            "issues": "https://github.com/facelessuser/sublime-gntp/issues",
+            "authors": [
+                "facelessuser"
+            ],
+            "releases": [{
+                "version": "1.0.3",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/facelessuser/sublime-gntp/zip/1.0.3"
+            }],
+            "description": "Growl Notification Transport Protocol library."
+        }, {
+            "name": "fileio",
+            "load_order": "01",
+            "issues": "https://github.com/codexns/sublime-fileio/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "linux"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-fileio/zip/1.0.0"
+            }],
+            "description": "Python _fileio module"
+        }, {
+            "name": "newterm",
+            "load_order": "20",
+            "issues": "https://github.com/codexns/newterm/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/codexns/newterm/zip/1.0.0"
+            }],
+            "description": "Open a terminal to a specific folder and optionally set environment variables"
+        }, {
+            "name": "emojitations",
+            "load_order": "50",
+            "issues": "https://github.com/idleberg/sublime-emojitations/issues",
+            "authors": [
+                "idleberg"
+            ],
+            "releases": [{
+                "version": "0.1.0",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/idleberg/sublime-emojitations/zip/0.1.0"
+            }],
+            "description": "A library for using Unicode emoji annotations - https://github.com/kcsaff/emojitations"
+        }, {
+            "name": "bz2",
+            "load_order": "02",
+            "issues": "https://github.com/codexns/sublime-bz2/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-bz2/zip/1.0.0"
+            }],
+            "description": "Python bz2 module"
+        }, {
+            "name": "requests-oauthlib",
+            "load_order": "51",
+            "issues": "https://github.com/packagecontrol/requests-oauthlib/issues",
+            "authors": [
+                "csch0"
+            ],
+            "releases": [{
+                "version": "0.4.2",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/packagecontrol/requests-oauthlib/zip/v0.4.2"
+            }],
+            "description": "Python requests-oauthlib module"
+        }, {
+            "name": "pathtools",
+            "load_order": "10",
+            "issues": "https://github.com/vovkkk/sublime-pathtools/issues",
+            "authors": [
+                "vovkkk"
+            ],
+            "releases": [{
+                "version": "0.1.2",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/vovkkk/sublime-pathtools/zip/0.1.2"
+            }],
+            "description": "Path utilities for Python https://pypi.python.org/pypi/pathtools"
+        }, {
+            "name": "package_events",
+            "load_order": "20",
+            "issues": "https://github.com/codexns/package_events/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.1",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/codexns/package_events/zip/1.0.1"
+            }],
+            "description": "Allows Sublime Text packages to emit and listen for events"
+        }, {
+            "name": "golangconfig",
+            "load_order": "10",
+            "issues": "https://github.com/golang/sublime-config/issues",
+            "authors": [
+                "Go Authors"
+            ],
+            "releases": [{
+                "version": "0.9.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/golang/sublime-config/zip/v0.9.0"
+            }],
+            "description": "A library for Go environment configuration"
+        }, {
+            "name": "mdpopups",
+            "load_order": "55",
+            "issues": "https://github.com/facelessuser/sublime-markdown-popups/issues",
+            "authors": [
+                "facelessuser"
+            ],
+            "releases": [{
+                "version": "1.13.1",
+                "sublime_text": ">=3080",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/facelessuser/sublime-markdown-popups/zip/1.13.1"
+            }],
+            "description": "Markdown Popups for Sublime"
+        }, {
+            "name": "xdotool",
+            "load_order": "50",
+            "issues": "https://github.com/randy3k/sublime-xdotool/issues",
+            "authors": [
+                "randy3k"
+            ],
+            "releases": [{
+                "version": "3.20160714.1",
+                "sublime_text": "*",
+                "platforms": [
+                    "linux"
+                ],
+                "url": "https://codeload.github.com/randy3k/sublime-xdotool/zip/v3.20160714.1"
+            }],
+            "description": "Automation tool on Linux"
+        }, {
+            "name": "SublimeP4Python",
+            "load_order": "51",
+            "issues": "https://github.com/MrElusive/SublimeP4Python/issues",
+            "authors": [
+                "mrelusive"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "windows"
+                ],
+                "url": "https://codeload.github.com/MrElusive/SublimeP4Python/zip/1.0.0"
+            }],
+            "description": "Python module for the Perforce API, extracted from https://pypi.python.org/pypi/P4Python."
+        }, {
+            "name": "requests",
+            "load_order": "50",
+            "issues": "https://github.com/packagecontrol/requests/issues",
+            "authors": [
+                "FichteFoll"
+            ],
+            "releases": [{
+                "version": "2.11.1",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/packagecontrol/requests/zip/v2.11.1"
+            }],
+            "description": "Python requests module"
+        }, {
+            "name": "boto3",
+            "load_order": "02",
+            "issues": "https://github.com/revmischa/sublime-boto3/issues",
+            "authors": [
+                "revmischa"
+            ],
+            "releases": [{
+                "version": "2.0.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/revmischa/sublime-boto3/zip/v2.0.0"
+            }],
+            "description": "Python boto3 module for Amazon Web Services"
+        }, {
+            "name": "coverage",
+            "load_order": "15",
+            "issues": "https://github.com/codexns/sublime-coverage/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-coverage/zip/1.0.0"
+            }],
+            "description": "coverage.py - http://coverage.readthedocs.org/en/latest/"
+        }, {
+            "name": "watchdog",
+            "load_order": "20",
+            "issues": "https://github.com/vovkkk/sublime-watchdog/issues",
+            "authors": [
+                "vovkkk"
+            ],
+            "releases": [{
+                "version": "0.8.31",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/vovkkk/sublime-watchdog/zip/0.8.31"
+            }],
+            "description": "Python library to monitor filesystem events http://packages.python.org/watchdog/"
+        }, {
+            "name": "speg",
+            "load_order": "50",
+            "issues": "https://github.com/idleberg/sublime-speg/issues",
+            "authors": [
+                "idleberg"
+            ],
+            "releases": [{
+                "version": "0.2.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/idleberg/sublime-speg/zip/0.2.0"
+            }],
+            "description": "A PEG-based parser interpreter with memoization - https://github.com/avakar/speg"
+        }, {
+            "name": "markupsafe",
+            "load_order": "50",
+            "issues": "https://bitbucket.org/teddy_beer_maniac/sublime-text-dependency-markupsafe/issues",
+            "authors": [
+                "teddy_beer_maniac"
+            ],
+            "releases": [{
+                "version": "0.23.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://bitbucket.org/teddy_beer_maniac/sublime-text-dependency-markupsafe/get/0.23.0.zip"
+            }],
+            "description": "Python MarkupSafe module"
+        }, {
+            "name": "ssl-windows",
+            "load_order": "01",
+            "issues": "https://github.com/codexns/sublime-ssl-windows/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": "<3000",
+                "sha256": "efe25e3bdf2e8f791d86327978aabe093c9597a6ceb8c2fb5438c1d810e02bea",
+                "platforms": [
+                    "windows"
+                ],
+                "url": "http://packagecontrol.io/ssl/1.0.0/ssl-windows.sublime-package"
+            }],
+            "description": "Python _ssl module for Sublime Text 2 on Windows"
+        }, {
+            "name": "arrow",
+            "load_order": "01",
+            "issues": "https://github.com/douglas-vaz/arrow/issues",
+            "authors": [
+                "douglas-vaz"
+            ],
+            "releases": [{
+                "version": "0.0.2",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/douglas-vaz/arrow/zip/v0.0.2"
+            }],
+            "description": "Python arrow module - https://github.com/crsmithdev/arrow"
+        }, {
+            "name": "bs4",
+            "load_order": "51",
+            "issues": "https://github.com/jlegewie/sublime-beautifulsoup4/issues",
+            "authors": [
+                "jlegewie"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/jlegewie/sublime-beautifulsoup4/zip/1.0.0"
+            }],
+            "description": "Beautiful Soup is a Python library for pulling data out of HTML and XML files - https://www.crummy.com/software/BeautifulSoup/"
+        }, {
+            "name": "backrefs",
+            "load_order": "50",
+            "issues": "https://github.com/facelessuser/sublime-backrefs/issues",
+            "authors": [
+                "facelessuser"
+            ],
+            "releases": [{
+                "version": "1.2.1",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/facelessuser/sublime-backrefs/zip/1.2.1"
+            }],
+            "description": "Backrefs regular expression wrapper."
+        }, {
+            "name": "pytz",
+            "load_order": "50",
+            "issues": "https://github.com/packagecontrol/pytz/issues",
+            "authors": [
+                "FichteFoll"
+            ],
+            "releases": [{
+                "version": "2016.7.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/packagecontrol/pytz/zip/v2016.7.0"
+            }],
+            "description": "Python pytz module"
+        }, {
+            "name": "regex",
+            "load_order": "50",
+            "issues": "https://github.com/facelessuser/sublime-regex/issues",
+            "authors": [
+                "facelessuser"
+            ],
+            "releases": [{
+                "version": "1.1.0",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/facelessuser/sublime-regex/zip/1.1.0"
+            }],
+            "description": "Regex Module"
+        }, {
+            "name": "ssl-linux",
+            "load_order": "01",
+            "issues": "https://github.com/codexns/sublime-ssl-linux/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.2",
+                "sublime_text": "*",
+                "sha256": "23f35f64458a0a14c99b1bb1bbc3cb04794c7361c4940e0a638d40f038acd377",
+                "platforms": [
+                    "linux"
+                ],
+                "url": "http://packagecontrol.io/ssl/1.0.2/ssl-linux.sublime-package"
+            }],
+            "description": "Python _ssl module for Linux"
+        }, {
+            "name": "python-markdown",
+            "load_order": "50",
+            "issues": "https://github.com/facelessuser/sublime-markdown/issues",
+            "authors": [
+                "facelessuser"
+            ],
+            "releases": [{
+                "version": "2.6.6",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/facelessuser/sublime-markdown/zip/2.6.6"
+            }],
+            "description": "Python Markdown module"
+        }, {
+            "name": "dicttoxml",
+            "load_order": "50",
+            "issues": "https://github.com/idleberg/sublime-dicttoxml/issues",
+            "authors": [
+                "idleberg"
+            ],
+            "releases": [{
+                "version": "1.7.4",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/idleberg/sublime-dicttoxml/zip/1.7.4"
+            }],
+            "description": "Converts a Python dictionary or other native data type into a valid XML string - https://github.com/idleberg/sublime-dicttoxml"
+        }, {
+            "name": "xmltodict",
+            "load_order": "50",
+            "issues": "https://github.com/idleberg/sublime-xmltodict/issues",
+            "authors": [
+                "idleberg"
+            ],
+            "releases": [{
+                "version": "0.10.2",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/idleberg/sublime-xmltodict/zip/0.10.2"
+            }],
+            "description": "Makes working with XML feel like you are working with JSON - https://github.com/martinblech/xmltodict"
+        }, {
+            "name": "python-pywin32",
+            "load_order": "50",
+            "issues": "https://github.com/randy3k/sublime-pywin32/issues",
+            "authors": [
+                "randy3k"
+            ],
+            "releases": [{
+                "version": "0.0.220",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "windows"
+                ],
+                "url": "https://codeload.github.com/randy3k/sublime-pywin32/zip/v0.0.220"
+            }],
+            "description": "Pywin32 module"
+        }, {
+            "name": "numpy",
+            "load_order": "01",
+            "issues": "https://github.com/komsit37/sublime-numpy/issues",
+            "authors": [
+                "komsit37"
+            ],
+            "releases": [{
+                "version": "1.8.12",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "windows-x64",
+                    "osx-x64",
+                    "linux-x64"
+                ],
+                "url": "https://codeload.github.com/komsit37/sublime-numpy/zip/1.8.12"
+            }],
+            "description": "Python numpy module"
+        }, {
+            "name": "select-windows",
+            "load_order": "02",
+            "issues": "https://github.com/codexns/sublime-select-windows/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-select-windows/zip/1.0.0"
+            }],
+            "description": "Python select module for Sublime Text 2 on Windows"
+        }, {
+            "name": "python-jinja2",
+            "load_order": "51",
+            "issues": "https://bitbucket.org/teddy_beer_maniac/sublime-text-dependency-jinja2/issues",
+            "authors": [
+                "teddy_beer_maniac"
+            ],
+            "releases": [{
+                "version": "2.8.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://bitbucket.org/teddy_beer_maniac/sublime-text-dependency-jinja2/get/2.8.0.zip"
+            }],
+            "description": "Python Jinja2 module"
+        }, {
+            "name": "cson",
+            "load_order": "50",
+            "issues": "https://github.com/idleberg/sublime-cson/issues",
+            "authors": [
+                "idleberg"
+            ],
+            "releases": [{
+                "version": "0.7.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/idleberg/sublime-cson/zip/0.7.0"
+            }],
+            "description": "A Coffescript Object Notation (CSON) parser for Python - https://github.com/avakar/pycson"
+        }, {
+            "name": "rx",
+            "load_order": "01",
+            "issues": "https://github.com/guillermooo/rxpyst/issues",
+            "authors": [
+                "guillermooo"
+            ],
+            "releases": [{
+                "version": "0.1.1",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/guillermooo/rxpyst/zip/0.1.1"
+            }],
+            "description": "Reactive extensions for Python"
+        }, {
+            "name": "multiprocessing",
+            "load_order": "01",
+            "issues": "https://github.com/codexns/sublime-multiprocessing/issues",
+            "authors": [
+                "wbond"
+            ],
+            "releases": [{
+                "version": "1.0.0",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "windows"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-multiprocessing/zip/1.0.0"
+            }, {
+                "version": "1.0.0",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "osx"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-multiprocessing/zip/1.0.0"
+            }, {
+                "version": "1.0.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "linux"
+                ],
+                "url": "https://codeload.github.com/codexns/sublime-multiprocessing/zip/1.0.0"
+            }],
+            "description": "Python _multiprocessing module"
+        }, {
+            "name": "pyzmq",
+            "load_order": "50",
+            "issues": "https://github.com/randy3k/sublime-pyzmq/issues",
+            "authors": [
+                "randy3k"
+            ],
+            "releases": [{
+                "version": "15.2.0",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/randy3k/sublime-pyzmq/zip/15.2.0"
+            }],
+            "description": "Python ZMQ module"
+        }, {
+            "name": "pygments",
+            "load_order": "01",
+            "issues": "https://github.com/packagecontrol/pygments/issues",
+            "authors": [
+                "AndreasBackx"
+            ],
+            "releases": [{
+                "version": "2.0.2",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/packagecontrol/pygments/zip/v2.0.2"
+            }],
+            "description": "Python pygments module"
+        }]
+    },
+    "repositories": [
+        "https://bitbucket.org/jjones028/p4sublime/raw/tip/packages.json",
+        "https://bitbucket.org/klorenz/sublime_packages/raw/tip/packages.json",
+        "https://csch1.triangulum.uberspace.de/release/packages.json",
+        "https://packagecontrol.io/packages_2.json",
+        "https://packagecontrol.io/repository.json",
+        "https://raw.githubusercontent.com/20Tauri/DoxyDoxygen/master/DoxyDoxygen.json",
+        "https://raw.githubusercontent.com/Andr3as/Sublime-SurroundWith/master/packages.json",
+        "https://raw.githubusercontent.com/FichteFoll/sublime_packages/master/package_control.json",
+        "https://raw.githubusercontent.com/Floobits/floobits-sublime/master/packages.json",
+        "https://raw.githubusercontent.com/Harrison-M/indent.txt-sublime/master/packages.json",
+        "https://raw.githubusercontent.com/Hexenon/FoxCode/master/packages.json",
+        "https://raw.githubusercontent.com/Kaizhi/SublimeUpdater/master/packages.json",
+        "https://raw.githubusercontent.com/Kasoki/FancyProjects/master/packages.json",
+        "https://raw.githubusercontent.com/MattDMo/Neon-sublime-theme/master/packages.json",
+        "https://raw.githubusercontent.com/Medalink/laravel-blade/master/packages.json",
+        "https://raw.githubusercontent.com/Mendor/sublime-erlyman/master/packages.json",
+        "https://raw.githubusercontent.com/NicholasBuse/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/Skullmonkey/sublime/master/packages.json",
+        "https://raw.githubusercontent.com/SublimeCodeIntel/SublimeCodeIntel/master/packages.json",
+        "https://raw.githubusercontent.com/SublimeLinter/package_control_channel/master/packages.json",
+        "https://raw.githubusercontent.com/Ted-Mohamed/Split/master/packages.json",
+        "https://raw.githubusercontent.com/accerqueira/sublime/master/packages.json",
+        "https://raw.githubusercontent.com/afterdesign/jshintify/master/packages.json",
+        "https://raw.githubusercontent.com/ajryan/CSharpreter/master/packages.json",
+        "https://raw.githubusercontent.com/amazedkoumei/SublimeKnifeSolo/master/packages.json",
+        "https://raw.githubusercontent.com/aparajita/active4d-sublime/master/package_control.json",
+        "https://raw.githubusercontent.com/apophys/sublime-packages/master/packages.json",
+        "https://raw.githubusercontent.com/blachniet/sublime-mimosa/master/packages.json",
+        "https://raw.githubusercontent.com/blueplanet/sublime-text-2-octopress/master/packages.json",
+        "https://raw.githubusercontent.com/bradfeehan/SublimePHPCoverage/master/packages.json",
+        "https://raw.githubusercontent.com/camperdave/EC2Upload/master/packages.json",
+        "https://raw.githubusercontent.com/carlcalderon/ofLang/master/packages.json",
+        "https://raw.githubusercontent.com/ccpalettes/sublime-lorem-text/master/packages.json",
+        "https://raw.githubusercontent.com/chikatoike/IMESupport/master/packages.json",
+        "https://raw.githubusercontent.com/chriswong/sublime-mootools-snippets/master/packages.json",
+        "https://raw.githubusercontent.com/colinta/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/connec/Open-in-ConEmu/master/packages.json",
+        "https://raw.githubusercontent.com/corbinian/GrowlNotifier/master/packages.json",
+        "https://raw.githubusercontent.com/cryz/sublime-i18n-and-l10n-helper/master/packages.json",
+        "https://raw.githubusercontent.com/csch0/SublimeText-Packages/master/packages.json",
+        "https://raw.githubusercontent.com/csytan/sublime-text-2-github/master/packages.json",
+        "https://raw.githubusercontent.com/damccull/sublimetext-SolarizedToggle/master/packages.json",
+        "https://raw.githubusercontent.com/danielmagnussons/orgmode/master/packages.json",
+        "https://raw.githubusercontent.com/danielobrien/sublime-DLX-syntax/master/packages.json",
+        "https://raw.githubusercontent.com/enriquein/JavaSetterGetter/master/packages.json",
+        "https://raw.githubusercontent.com/farcaller/DashDoc/master/packages.json",
+        "https://raw.githubusercontent.com/filcab/SublimeLLDB/master/packages.json",
+        "https://raw.githubusercontent.com/fnkr/ST-Repository/master/repository.json",
+        "https://raw.githubusercontent.com/francodacosta/sublime-php-getters-setters/master/packages.json",
+        "https://raw.githubusercontent.com/freewizard/sublime_packages/master/package_control.json",
+        "https://raw.githubusercontent.com/gcollazo/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/haru01/EasyOpen/master/packages.json",
+        "https://raw.githubusercontent.com/hellpf/GimpRun/master/packages.json",
+        "https://raw.githubusercontent.com/hgraca/sublime-text-2-php-refactor/master/packages.json",
+        "https://raw.githubusercontent.com/himynameisjonas/sublime-ia-writer-opener/master/packages.json",
+        "https://raw.githubusercontent.com/ikeike443/Sublime-Scalariform/master/packages.json",
+        "https://raw.githubusercontent.com/ivancduran/krakensnippets/master/packages.json",
+        "https://raw.githubusercontent.com/jadb/st2-search-cakephp-api/master/packages.json",
+        "https://raw.githubusercontent.com/jadb/st2-search-cakephp-book/master/packages.json",
+        "https://raw.githubusercontent.com/jeffturcotte/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/jfernandez/SublimeRailsEval/master/packages.json",
+        "https://raw.githubusercontent.com/jfromaniello/sublime-unity-recents/master/packages.json",
+        "https://raw.githubusercontent.com/joacodeviaje/aftersave/master/packages.json",
+        "https://raw.githubusercontent.com/joomlapro/joomla3-sublime-snippets/master/packages.json",
+        "https://raw.githubusercontent.com/kairyou/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/kallepersson/Sublime-Finder/master/packages.json",
+        "https://raw.githubusercontent.com/keeganstreet/sublime-elfinder/master/packages.json",
+        "https://raw.githubusercontent.com/keeganstreet/sublime-specificity/master/packages.json",
+        "https://raw.githubusercontent.com/kik0220/sublimetext_japanize/master/packages.json",
+        "https://raw.githubusercontent.com/kylederkacz/lettuce-farmer/master/packages.json",
+        "https://raw.githubusercontent.com/leporo/SublimeYammy/master/packages.json",
+        "https://raw.githubusercontent.com/lifted-studios/AutoCopyright/master/packages.json",
+        "https://raw.githubusercontent.com/lucifr/CNPunctuationAutopair/master/packages.json",
+        "https://raw.githubusercontent.com/lyapun/sublime-text-2-python-test-runner/master/packages.json",
+        "https://raw.githubusercontent.com/mekwall/obsidian-color-scheme/master/packages.json",
+        "https://raw.githubusercontent.com/mischah/Console-API-Snippets/master/packages.json",
+        "https://raw.githubusercontent.com/nLight/Phing/master/packages.json",
+        "https://raw.githubusercontent.com/naomichi-y/string_counter/master/packages.json",
+        "https://raw.githubusercontent.com/noraesae/ClassHierarchy/master/packages.json",
+        "https://raw.githubusercontent.com/phyllisstein/Markboard3/master/packages.json",
+        "https://raw.githubusercontent.com/quarnster/CompleteSharp/master/package.json",
+        "https://raw.githubusercontent.com/quarnster/SublimeClang/master/package.json",
+        "https://raw.githubusercontent.com/quarnster/SublimeJava/master/package.json",
+        "https://raw.githubusercontent.com/randy3k/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/recklesswaltz/Subtoise/master/packages.json",
+        "https://raw.githubusercontent.com/royisme/SublimeOctopressTool/master/packages.json",
+        "https://raw.githubusercontent.com/rpowers/sublime_stata/master/packages.json",
+        "https://raw.githubusercontent.com/rse/sublime-scheme-rse/master/packages.json",
+        "https://raw.githubusercontent.com/sdolard/sublime-jsrevival/master/packages.json",
+        "https://raw.githubusercontent.com/seanliang/ConvertToUTF8/master/packages.json",
+        "https://raw.githubusercontent.com/sentience/DokuWiki/master/packages.json",
+        "https://raw.githubusercontent.com/sentience/HyperlinkHelper/master/packages.json",
+        "https://raw.githubusercontent.com/shivkumarganesh/VisSub/master/packages.json",
+        "https://raw.githubusercontent.com/sokolovstas/SublimeWebInspector/master/packages.json",
+        "https://raw.githubusercontent.com/soncy/AutoComments-for-Sublime-Text-2/master/packages.json",
+        "https://raw.githubusercontent.com/spectacles/CodeComplice/master/packages.json",
+        "https://raw.githubusercontent.com/superbob/SublimeTextLanguageFrench/master/packages.json",
+        "https://raw.githubusercontent.com/tbfisher/sublimetext-Pandoc/master/packages.json",
+        "https://raw.githubusercontent.com/tcrosen/recessify/master/packages.json",
+        "https://raw.githubusercontent.com/teddyknox/SublimeChromeRefresh/master/packages.json",
+        "https://raw.githubusercontent.com/theadamlt/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/thecotne/smart_less_build/master/package.json",
+        "https://raw.githubusercontent.com/thecotne/subl-protocol/master/package.json",
+        "https://raw.githubusercontent.com/tiger2wander/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/tillig/SublimeMSBuild/master/packages.json",
+        "https://raw.githubusercontent.com/timonwong/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/tomascayuelas/coolcodescheme/master/packages.json",
+        "https://raw.githubusercontent.com/vkocubinsky/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/wallysalami/QuickLook/master/packages.json",
+        "https://raw.githubusercontent.com/weslly/sublime_packages/master/packages.json",
+        "https://raw.githubusercontent.com/wuub/SublimeREPL/master/packages.json",
+        "https://raw.githubusercontent.com/wuub/requirementstxt/master/packages.json",
+        "https://raw.githubusercontent.com/x3ns/x3-alpha-theme/master/packages.json",
+        "https://raw.githubusercontent.com/xgenvn/InputHelper/master/packages.json",
+        "https://raw.githubusercontent.com/zfkun/sublime-kissy-snippets/master/packages.json",
+        "https://s3.amazonaws.com/wallaby-downloads/sublime/packages.json",
+        "https://sublimerge-bfcloud.rhcloud.com/packages.json"
+    ],
+    "packages_cache": {
+        "https://packagecontrol.io/repository.json": [{
+            "name": "AutoFileName",
+            "issues": "https://github.com/BoundInCode/AutoFileName/issues",
+            "authors": [
+                "BoundInCode"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/BoundInCode/AutoFileName/master/README.md",
+            "releases": [{
+                "date": "2014-01-13 07:57:49",
+                "version": "2014.01.13.07.57.49",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/BoundInCode/AutoFileName/zip/st3"
+            }, {
+                "date": "2013-11-27 18:03:11",
+                "version": "2013.11.27.18.03.11",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/BoundInCode/AutoFileName/zip/master"
+            }],
+            "donate": null,
+            "description": "Sublime Text plugin that autocompletes filenames",
+            "homepage": "https://github.com/BoundInCode/AutoFileName"
+        }, {
+            "name": "Can I Use",
+            "issues": "https://github.com/Azd325/sublime-text-caniuse/issues",
+            "authors": [
+                "Azd325"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/Azd325/sublime-text-caniuse/master/README.md",
+            "releases": [{
+                "date": "2016-03-03 18:21:48",
+                "version": "2016.03.03.18.21.48",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/Azd325/sublime-text-caniuse/zip/master"
+            }],
+            "donate": null,
+            "description": "Is a plugin for sublime text 2/3 for checking CSS property support",
+            "homepage": "http://azd325.github.io/sublime-text-caniuse/"
+        }, {
+            "name": "Case Conversion",
+            "issues": "https://github.com/jdc0589/CaseConversion/issues",
+            "authors": [
+                "jdc0589"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/jdc0589/CaseConversion/master/readme.md",
+            "releases": [{
+                "date": "2015-10-02 21:19:52",
+                "version": "2015.10.02.21.19.52",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/jdc0589/CaseConversion/zip/master"
+            }],
+            "donate": null,
+            "description": "Case conversion plugin (pascal, camel, snake) for sublime text 2",
+            "homepage": "https://github.com/jdc0589/CaseConversion"
+        }, {
+            "name": "CSS Format",
+            "issues": "https://github.com/mutian/Sublime-CSS-Format/issues",
+            "authors": [
+                "mutian"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "css",
+                "formatting"
+            ],
+            "readme": "https://raw.githubusercontent.com/mutian/Sublime-CSS-Format/master/README.md",
+            "releases": [{
+                "date": "2015-09-17 02:52:20",
+                "version": "2015.09.17.02.52.20",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/mutian/Sublime-CSS-Format/zip/master"
+            }],
+            "donate": null,
+            "description": "CSS Formatting for Sublime Text",
+            "homepage": "http://mutian.github.io/Sublime-CSS-Format/"
+        }, {
+            "name": "DocBlockr",
+            "issues": "https://github.com/spadgos/sublime-jsdocs/issues",
+            "authors": [
+                "spadgos"
+            ],
+            "buy": null,
+            "previous_names": [
+                "JSDocs"
+            ],
+            "labels": [
+                "documentation",
+                "comments"
+            ],
+            "readme": "https://raw.githubusercontent.com/spadgos/sublime-jsdocs/master/README.md",
+            "releases": [{
+                "date": "2015-08-17 21:19:47",
+                "version": "2.14.1",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/spadgos/sublime-jsdocs/zip/2.14.1"
+            }, {
+                "date": "2015-06-04 13:29:26",
+                "version": "2.13.3",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/spadgos/sublime-jsdocs/zip/2.13.3"
+            }, {
+                "date": "2014-12-10 10:34:56",
+                "version": "2.12.4",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/spadgos/sublime-jsdocs/zip/2.12.4"
+            }, {
+                "date": "2011-11-05 16:45:11",
+                "version": "1.3.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/spadgos/sublime-jsdocs/zip/v1.3.0"
+            }, {
+                "date": "2011-10-05 15:40:05",
+                "version": "1.2.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/spadgos/sublime-jsdocs/zip/v1.2.0"
+            }, {
+                "date": "2011-10-02 16:20:37",
+                "version": "1.1.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/spadgos/sublime-jsdocs/zip/v1.1.0"
+            }],
+            "donate": "http://pledgie.com/campaigns/16316",
+            "description": "Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++",
+            "homepage": "https://github.com/spadgos/sublime-jsdocs"
+        }, {
+            "name": "EditorConfig",
+            "issues": "https://github.com/sindresorhus/editorconfig-sublime/issues",
+            "authors": [
+                "sindresorhus"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "linting",
+                "text manipulation",
+                "formatting",
+                "code style",
+                "snippets"
+            ],
+            "readme": "https://raw.githubusercontent.com/sindresorhus/editorconfig-sublime/master/readme.md",
+            "releases": [{
+                "date": "2016-06-14 15:56:54",
+                "version": "2016.06.14.15.56.54",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/sindresorhus/editorconfig-sublime/zip/master"
+            }],
+            "donate": null,
+            "description": "Helps developers maintain consistent coding styles between different editors - Sublime Text plugin",
+            "homepage": "https://github.com/sindresorhus/editorconfig-sublime"
+        }, {
+            "name": "Gist",
+            "issues": "https://github.com/condemil/Gist/issues",
+            "authors": [
+                "condemil"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/condemil/Gist/master/README.md",
+            "releases": [{
+                "date": "2015-11-15 20:01:15",
+                "version": "2015.11.15.20.01.15",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/condemil/Gist/zip/master"
+            }],
+            "donate": null,
+            "description": "Sublime Text plugin for creating new Gists from selected text",
+            "homepage": "https://github.com/condemil/Gist"
+        }, {
+            "name": "GitGutter-Edge",
+            "issues": "https://github.com/jisaacks/GitGutter/issues",
+            "authors": [
+                "jisaacks"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/jisaacks/GitGutter/master/README.md",
+            "releases": [{
+                "date": "2017-01-02 10:59:43",
+                "version": "2017.01.02.10.59.43",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/jisaacks/GitGutter/zip/master"
+            }],
+            "donate": null,
+            "description": "A Sublime Text 2/3 plugin to see git diff in gutter",
+            "homepage": "https://github.com/jisaacks/GitGutter"
+        }, {
+            "name": "Goto Bootstrap",
+            "issues": "https://github.com/austenc/goto-bootstrap/issues",
+            "authors": [
+                "austenc"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/austenc/goto-bootstrap/master/README.md",
+            "releases": [{
+                "date": "2014-07-09 23:47:40",
+                "version": "2014.07.09.23.47.40",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/austenc/goto-bootstrap/zip/master"
+            }],
+            "donate": null,
+            "description": "Provides quick shortcuts to bootstrap documentation via commands in Sublime Text",
+            "homepage": "https://github.com/austenc/goto-bootstrap"
+        }, {
+            "name": "GotoDocumentation",
+            "issues": "https://github.com/kemayo/sublime-text-2-goto-documentation/issues",
+            "authors": [
+                "kemayo"
+            ],
+            "buy": null,
+            "previous_names": [
+                "Goto Documentation"
+            ],
+            "labels": [
+                "search",
+                "documentation"
+            ],
+            "readme": "https://raw.githubusercontent.com/kemayo/sublime-text-2-goto-documentation/master/README.markdown",
+            "releases": [{
+                "date": "2014-11-13 15:13:51",
+                "version": "2014.11.13.15.13.51",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/kemayo/sublime-text-2-goto-documentation/zip/master"
+            }],
+            "donate": null,
+            "description": "Sublime Text 2 plugin to go to documentation",
+            "homepage": "https://github.com/kemayo/sublime-text-2-goto-documentation"
+        }, {
+            "name": "HTMLBeautify",
+            "issues": "https://github.com/rareyman/HTMLBeautify/issues",
+            "authors": [
+                "rareyman"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/rareyman/HTMLBeautify/master/README.md",
+            "releases": [{
+                "date": "2015-02-23 20:05:55",
+                "version": "2015.02.23.20.05.55",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/rareyman/HTMLBeautify/zip/master"
+            }],
+            "donate": null,
+            "description": "A plugin for Sublime Text that formats (indents) HTML source code. It makes code easier for humans to read.",
+            "homepage": "https://github.com/rareyman/HTMLBeautify"
+        }, {
+            "name": "Javascript Beautify",
+            "issues": "https://github.com/enginespot/js-beautify-sublime/issues",
+            "authors": [
+                "enginespot"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/enginespot/js-beautify-sublime/master/README.md",
+            "releases": [{
+                "date": "2017-01-07 07:07:44",
+                "version": "2017.01.07.07.07.44",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/enginespot/js-beautify-sublime/zip/master"
+            }],
+            "donate": null,
+            "description": "js-beautify for sublime",
+            "homepage": "https://github.com/enginespot/js-beautify-sublime"
+        }, {
+            "name": "JavaScript Completions",
+            "issues": "https://github.com/pichillilorenzo/JavaScript-Completions/issues",
+            "authors": [
+                "pichillilorenzo"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "completions",
+                "javascript",
+                "javascript completions"
+            ],
+            "readme": "https://raw.githubusercontent.com/pichillilorenzo/JavaScript-Completions/master/README.md",
+            "releases": [{
+                "date": "2016-09-26 19:43:03",
+                "version": "2.6.6",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/pichillilorenzo/JavaScript-Completions/zip/v2.6.6"
+            }, {
+                "date": "2016-09-21 19:49:03",
+                "version": "2.5.03",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/pichillilorenzo/JavaScript-Completions/zip/v2.5.03"
+            }, {
+                "date": "2016-09-18 15:51:06",
+                "version": "2.2.02",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/pichillilorenzo/JavaScript-Completions/zip/v2.2.02"
+            }],
+            "donate": null,
+            "description": "JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.",
+            "homepage": "https://github.com/pichillilorenzo/JavaScript-Completions"
+        }, {
+            "name": "JSON to CSV Converter",
+            "issues": "https://github.com/drugo76/sublime_json2csv/issues",
+            "authors": [
+                "drugo76"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/drugo76/sublime_json2csv/master/README.md",
+            "releases": [{
+                "date": "2013-11-11 06:25:03",
+                "version": "2013.11.11.06.25.03",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/drugo76/sublime_json2csv/zip/master"
+            }],
+            "donate": null,
+            "description": "A sublime text 2 plugin to convert json to csv",
+            "homepage": "https://github.com/drugo76/sublime_json2csv"
+        }, {
+            "name": "Keymaps",
+            "issues": "https://github.com/MiroHibler/sublime-keymaps/issues",
+            "authors": [
+                "MiroHibler"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "keymap",
+                "cheat sheet"
+            ],
+            "readme": "https://raw.githubusercontent.com/MiroHibler/sublime-keymaps/master/README.md",
+            "releases": [{
+                "date": "2014-01-05 08:50:55",
+                "version": "2014.01.05.08.50.55",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/MiroHibler/sublime-keymaps/zip/master"
+            }],
+            "donate": null,
+            "description": "Find a keymap for... and show all enabled keymaps in a Cheat Sheet.",
+            "homepage": "https://github.com/MiroHibler/sublime-keymaps"
+        }, {
+            "name": "nginx",
+            "issues": "https://github.com/brandonwamboldt/sublime-nginx/issues",
+            "authors": [
+                "brandonwamboldt"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "language syntax"
+            ],
+            "readme": "https://raw.githubusercontent.com/brandonwamboldt/sublime-nginx/master/README.md",
+            "releases": [{
+                "date": "2016-02-17 02:34:24",
+                "version": "2016.02.17.02.34.24",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/brandonwamboldt/sublime-nginx/zip/master"
+            }],
+            "donate": null,
+            "description": "Improved syntax support for Nginx configuration files",
+            "homepage": "https://github.com/brandonwamboldt/sublime-nginx"
+        }, {
+            "name": "OnlineSearch",
+            "issues": "https://github.com/rajeshvaya/sublime-online-searcher/issues",
+            "authors": [
+                "Rajesh Vaya"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "search",
+                "documentation"
+            ],
+            "readme": "https://raw.githubusercontent.com/rajeshvaya/sublime-online-searcher/master/README.md",
+            "releases": [{
+                "date": "2014-10-24 05:45:51",
+                "version": "1.2.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/rajeshvaya/sublime-online-searcher/zip/1.2.0"
+            }, {
+                "date": "2014-10-24 05:45:51",
+                "version": "1.0.1",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/rajeshvaya/sublime-online-searcher/zip/1.0.1"
+            }],
+            "donate": null,
+            "description": "This plugin enables the user to search online right from the sublime text editor. User can search through input, right-clicking the selected text and through general key-bindings.",
+            "homepage": "https://github.com/rajeshvaya/sublime-online-searcher"
+        }, {
+            "name": "Open URL",
+            "issues": "https://github.com/noahcoad/open-url/issues",
+            "authors": [
+                "noahcoad"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/noahcoad/open-url/master/README.md",
+            "releases": [{
+                "date": "2017-01-17 19:55:04",
+                "version": "2017.01.17.19.55.04",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/noahcoad/open-url/zip/st3"
+            }, {
+                "date": "2013-10-15 02:11:05",
+                "version": "2013.10.15.02.11.05",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/noahcoad/open-url/zip/st2"
+            }],
+            "donate": null,
+            "description": "Open URLs, files, folders, or google text under the cursor or in selected text for Sublime Text.",
+            "homepage": "https://github.com/noahcoad/open-url"
+        }, {
+            "name": "PhalconPHP Completions",
+            "issues": "https://github.com/james2doyle/phalconphp-completions/issues",
+            "authors": [
+                "james2doyle"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "phalcon",
+                "php"
+            ],
+            "readme": "https://raw.githubusercontent.com/james2doyle/phalconphp-completions/master/README.md",
+            "releases": [{
+                "date": "2014-11-23 00:26:18",
+                "version": "1.2.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/james2doyle/phalconphp-completions/zip/1.2.0"
+            }, {
+                "date": "2014-11-22 16:33:03",
+                "version": "1.1.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/james2doyle/phalconphp-completions/zip/1.1.0"
+            }, {
+                "date": "2014-11-18 18:15:19",
+                "version": "1.0.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/james2doyle/phalconphp-completions/zip/1.0.0"
+            }],
+            "donate": null,
+            "description": "A set of completions for the Phalcon PHP Framework made for Sublime Text 3",
+            "homepage": "https://github.com/james2doyle/phalconphp-completions"
+        }, {
+            "name": "PHP Companion",
+            "issues": "https://github.com/erichard/SublimePHPCompanion/issues",
+            "authors": [
+                "erichard"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/erichard/SublimePHPCompanion/master/README.md",
+            "releases": [{
+                "date": "2017-01-24 22:20:14",
+                "version": "1.3.2",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/erichard/SublimePHPCompanion/zip/v1.3.2"
+            }, {
+                "date": "2016-03-15 09:10:36",
+                "version": "1.2.1",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/erichard/SublimePHPCompanion/zip/v1.2.1"
+            }, {
+                "date": "2015-07-06 07:39:05",
+                "version": "1.1.2",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/erichard/SublimePHPCompanion/zip/v1.1.2"
+            }],
+            "donate": null,
+            "description": "A Sublime Text 3 plugin that provides cool stuff for PHP 5.3+ coding session.",
+            "homepage": "https://github.com/erichard/SublimePHPCompanion"
+        }, {
+            "name": "PHP Completions Kit",
+            "issues": "https://github.com/gerardroche/sublime-phpck/issues",
+            "authors": [
+                "gerardroche"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "php",
+                "auto-complete",
+                "completions"
+            ],
+            "readme": "https://raw.githubusercontent.com/gerardroche/sublime-phpck/master/README.md",
+            "releases": [{
+                "date": "2016-07-21 01:05:09",
+                "version": "0.16.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/gerardroche/sublime-phpck/zip/0.16.0"
+            }, {
+                "date": "2016-04-23 11:28:55",
+                "version": "0.15.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/gerardroche/sublime-phpck/zip/0.15.0"
+            }, {
+                "date": "2016-04-23 10:24:45",
+                "version": "0.14.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/gerardroche/sublime-phpck/zip/0.14.0"
+            }],
+            "donate": null,
+            "description": "PHP completions for Sublime Text ",
+            "homepage": "https://github.com/gerardroche/sublime-phpck"
+        }, {
+            "name": "PHP Namespace Command",
+            "issues": "https://github.com/alexandresalome/sublime-alom/issues",
+            "authors": [
+                "alexandresalome"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/alexandresalome/sublime-alom/master/README.md",
+            "releases": [{
+                "date": "2016-07-11 22:30:05",
+                "version": "2016.07.11.22.30.05",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/alexandresalome/sublime-alom/zip/master"
+            }],
+            "donate": null,
+            "description": "Sublime Text Package (DEPRECATED)",
+            "homepage": "http://alexandre-salome.fr/blog/SublimeText-2-Insert-PHP-namespaces"
+        }, {
+            "name": "Phpcs",
+            "issues": "https://github.com/benmatselby/sublime-phpcs/issues",
+            "authors": [
+                "benmatselby"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/benmatselby/sublime-phpcs/master/README.md",
+            "releases": [{
+                "date": "2017-01-18 20:46:06",
+                "version": "2017.01.18.20.46.06",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/benmatselby/sublime-phpcs/zip/master"
+            }],
+            "donate": null,
+            "description": "PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text",
+            "homepage": "http://benmatselby.github.io/sublime-phpcs"
+        }, {
+            "name": "PhpDoc",
+            "issues": "https://github.com/SublimeText/PhpDoc/issues",
+            "authors": [
+                "SublimeText"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/SublimeText/PhpDoc/master/README.md",
+            "releases": [{
+                "date": "2015-12-06 19:56:22",
+                "version": "2015.12.06.19.56.22",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/SublimeText/PhpDoc/zip/master"
+            }],
+            "donate": null,
+            "description": "PhpDoc support package.",
+            "homepage": "https://github.com/SublimeText/PhpDoc"
+        }, {
+            "name": "phpDocumentor",
+            "issues": "https://github.com/benmatselby/sublime-phpdocumentor/issues",
+            "authors": [
+                "benmatselby"
+            ],
+            "buy": null,
+            "previous_names": [
+                "DocBlox"
+            ],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/benmatselby/sublime-phpdocumentor/master/README.md",
+            "releases": [{
+                "date": "2014-06-03 09:12:27",
+                "version": "2014.06.03.09.12.27",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/benmatselby/sublime-phpdocumentor/zip/master"
+            }],
+            "donate": null,
+            "description": "phpDocumentor Support for Sublime Text 2",
+            "homepage": "https://github.com/benmatselby/sublime-phpdocumentor"
+        }, {
+            "name": "PhpDox",
+            "issues": "https://github.com/oct8cat/sublime-phpdox/issues",
+            "authors": [
+                "oct8cat"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/oct8cat/sublime-phpdox/master/README.md",
+            "releases": [{
+                "date": "2012-09-19 09:26:57",
+                "version": "2012.09.19.09.26.57",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/oct8cat/sublime-phpdox/zip/master"
+            }],
+            "donate": null,
+            "description": "PHPDoc comments generator plugin for Sublime Text 2 editor",
+            "homepage": "https://github.com/oct8cat/sublime-phpdox"
+        }, {
+            "name": "PHPIntel",
+            "issues": "https://github.com/jotson/SublimePHPIntel/issues",
+            "authors": [
+                "jotson"
+            ],
+            "buy": null,
+            "previous_names": [
+                "MagentoIntel"
+            ],
+            "labels": [
+                "php",
+                "auto-complete",
+                "autocomplete",
+                "intellisense",
+                "completion"
+            ],
+            "readme": "https://raw.githubusercontent.com/jotson/SublimePHPIntel/master/README.md",
+            "releases": [{
+                "date": "2015-01-23 21:54:28",
+                "version": "1.0.5",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/jotson/SublimePHPIntel/zip/st3-1.0.5"
+            }, {
+                "date": "2014-12-19 17:11:25",
+                "version": "1.0.2",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/jotson/SublimePHPIntel/zip/st2-1.0.2"
+            }],
+            "donate": null,
+            "description": "Auto-complete for PHP functions and objects",
+            "homepage": "https://github.com/jotson/SublimePHPIntel"
+        }, {
+            "name": "PhpNamespace",
+            "issues": "https://github.com/gl3n/sublime-php-namespace/issues",
+            "authors": [
+                "gl3n"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/gl3n/sublime-php-namespace/master/README.md",
+            "releases": [{
+                "date": "2014-07-02 14:03:22",
+                "version": "2014.07.02.14.03.22",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/gl3n/sublime-php-namespace/zip/master"
+            }, {
+                "date": "2014-05-14 12:56:09",
+                "version": "2014.05.14.12.56.09",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/gl3n/sublime-php-namespace/zip/ST3"
+            }],
+            "donate": null,
+            "description": "A \"3 in 1\" package to use PHP Namespaces with SublimeText 2 and 3",
+            "homepage": "http://lubriciousdevelopers.github.io/projects/sublime-php-namespace"
+        }, {
+            "name": "PlainTasks",
+            "issues": "https://github.com/aziz/PlainTasks/issues",
+            "authors": [
+                "aziz"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "todo",
+                "tasks"
+            ],
+            "readme": "https://raw.githubusercontent.com/aziz/PlainTasks/master/Readme.md",
+            "releases": [{
+                "date": "2017-01-22 17:07:38",
+                "version": "2017.01.22.17.07.38",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/aziz/PlainTasks/zip/master"
+            }],
+            "donate": null,
+            "description": "An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)",
+            "homepage": "https://github.com/aziz/PlainTasks"
+        }, {
+            "name": "Pretty JSON",
+            "issues": "https://github.com/dzhibas/SublimePrettyJson/issues",
+            "authors": [
+                "dzhibas"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "json",
+                "pretty",
+                "lint",
+                "minify",
+                "validate",
+                "query",
+                "json2xml"
+            ],
+            "readme": "https://raw.githubusercontent.com/dzhibas/SublimePrettyJson/master/README.md",
+            "releases": [{
+                "date": "2016-09-01 14:51:10",
+                "version": "2016.09.01.14.51.10",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/dzhibas/SublimePrettyJson/zip/master"
+            }],
+            "donate": null,
+            "description": "Prettify/Minify/Query/Goto/Validate/Lint JSON plugin for Sublime Text 2 & 3",
+            "homepage": "https://github.com/dzhibas/SublimePrettyJson"
+        }, {
+            "name": "Readme-Helper",
+            "issues": "https://github.com/idleberg/Readme-Helper/issues",
+            "authors": [
+                "idleberg"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "snippets",
+                "markdown",
+                "restructuredtext",
+                "textile"
+            ],
+            "readme": "https://raw.githubusercontent.com/idleberg/Readme-Helper/master/README.md",
+            "releases": [{
+                "date": "2015-09-21 09:17:49",
+                "version": "3.0.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/idleberg/Readme-Helper/zip/3.0.0"
+            }, {
+                "date": "2015-07-16 12:06:39",
+                "version": "2.3.3",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/idleberg/Readme-Helper/zip/2.3.3"
+            }, {
+                "date": "2014-10-01 07:15:17",
+                "version": "2.2.4",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/idleberg/Readme-Helper/zip/2.2.4"
+            }, {
+                "date": "2014-09-20 11:40:42",
+                "version": "2.1.0",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/idleberg/Readme-Helper/zip/2.1.0"
+            }],
+            "donate": null,
+            "description": "Snippets to help you create Readme files",
+            "homepage": "https://github.com/idleberg/Readme-Helper"
+        }, {
+            "name": "ReadmePlease",
+            "issues": "https://github.com/roadhump/ReadmePlease/issues",
+            "authors": [
+                "roadhump"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/roadhump/ReadmePlease/master/README.md",
+            "releases": [{
+                "date": "2015-11-08 17:41:01",
+                "version": "2015.11.08.17.41.01",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/roadhump/ReadmePlease/zip/master"
+            }, {
+                "date": "2013-09-24 04:43:23",
+                "version": "2013.09.24.04.43.23",
+                "sublime_text": "<3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/roadhump/ReadmePlease/zip/st2"
+            }],
+            "donate": null,
+            "description": "Sublime Text 2/3 plugin for quick access to installed packages README files.",
+            "homepage": "https://github.com/roadhump/ReadmePlease"
+        }, {
+            "name": "Shell Exec",
+            "issues": "https://github.com/gbaptista/sublime-3-shell-exec/issues",
+            "authors": [
+                "gbaptista"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/gbaptista/sublime-3-shell-exec/master/README.md",
+            "releases": [{
+                "date": "2016-04-12 19:43:48",
+                "version": "0.0.10",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/gbaptista/sublime-3-shell-exec/zip/0.0.10"
+            }],
+            "donate": null,
+            "description": "Run shell commands like git, rvm, rspec, ls, etc. with Bash, Zsh and others inside your Sublime Text 3.",
+            "homepage": "https://packagecontrol.io/packages/Shell%20Exec"
+        }, {
+            "name": "SideBarEnhancements",
+            "issues": "https://github.com/SideBarEnhancements-org/SideBarEnhancements/issues",
+            "authors": [
+                "SideBarEnhancements-org"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "sidebar",
+                "folder",
+                "directory",
+                "file",
+                "clipboard"
+            ],
+            "readme": "https://raw.githubusercontent.com/SideBarEnhancements-org/SideBarEnhancements/st3/readme.md",
+            "releases": [{
+                "date": "2016-12-21 15:22:12",
+                "version": "5.0.11",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/SideBarEnhancements-org/SideBarEnhancements/zip/5.0.11"
+            }],
+            "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW",
+            "description": "Enhancements to Sublime Text sidebar. Files and folders.",
+            "homepage": "https://github.com/SideBarEnhancements-org/SideBarEnhancements"
+        }, {
+            "name": "Slack",
+            "issues": "https://github.com/simion/sublime-slack-integration/issues",
+            "authors": [
+                "simion"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/simion/sublime-slack-integration/master/README.md",
+            "releases": [{
+                "date": "2015-09-09 09:24:57",
+                "version": "1.4.8",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/simion/sublime-slack-integration/zip/1.4.8"
+            }, {
+                "date": "2014-03-17 13:00:02",
+                "version": "1.3.3",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/simion/sublime-slack-integration/zip/1.3.3"
+            }, {
+                "date": "2014-03-15 14:22:32",
+                "version": "1.2.1",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/simion/sublime-slack-integration/zip/1.2.1"
+            }],
+            "donate": null,
+            "description": "A ST3 plugin which sends messages, code selections and  files to slack.com channels/groups/users.",
+            "homepage": "http://simionbaws.ro/sublime-text-3-slack-integration-plugin/"
+        }, {
+            "name": "SqlBeautifier",
+            "issues": "https://github.com/zsong/SqlBeautifier/issues",
+            "authors": [
+                "zsong"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "sql",
+                "formatting",
+                "formatter"
+            ],
+            "readme": "https://raw.githubusercontent.com/zsong/SqlBeautifier/master/README.md",
+            "releases": [{
+                "date": "2014-08-15 17:34:16",
+                "version": "1.1.3",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/zsong/SqlBeautifier/zip/1.1.3"
+            }],
+            "donate": null,
+            "description": "A sublime plugin to format SQL. It supports both sublime 2 and 3.",
+            "homepage": "https://github.com/zsong/SqlBeautifier"
+        }, {
+            "name": "SQLExec",
+            "issues": "https://github.com/jum4/sublime-sqlexec/issues",
+            "authors": [
+                "jum4"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [],
+            "readme": "https://raw.githubusercontent.com/jum4/sublime-sqlexec/master/README.md",
+            "releases": [{
+                "date": "2015-04-01 09:06:10",
+                "version": "2015.04.01.09.06.10",
+                "sublime_text": ">=3000",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/jum4/sublime-sqlexec/zip/master"
+            }],
+            "donate": null,
+            "description": "A Plugin for running SQL commands in Sublime Text",
+            "homepage": "http://lubriciousdevelopers.github.io/projects/sublime-sql-exec"
+        }, {
+            "name": "Sublime-KnockoutJS-Snippets",
+            "issues": "https://github.com/aaronpowell/Sublime-KnockoutJS-Snippets/issues",
+            "authors": [
+                "aaronpowell"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "snippets"
+            ],
+            "readme": "https://raw.githubusercontent.com/aaronpowell/Sublime-KnockoutJS-Snippets/master/README.md",
+            "releases": [{
+                "date": "2012-03-23 23:03:16",
+                "version": "2012.03.23.23.03.16",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/aaronpowell/Sublime-KnockoutJS-Snippets/zip/master"
+            }],
+            "donate": null,
+            "description": "Code snippets for KnockoutJS",
+            "homepage": "https://github.com/aaronpowell/Sublime-KnockoutJS-Snippets"
+        }, {
+            "name": "Volt",
+            "issues": "https://github.com/phalcon/volt-sublime-textmate/issues",
+            "authors": [
+                "The Phalcon Team"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "language syntax"
+            ],
+            "readme": "https://raw.githubusercontent.com/phalcon/volt-sublime-textmate/master/README.md",
+            "releases": [{
+                "date": "2016-08-13 22:38:00",
+                "version": "2016.08.13.22.38.00",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/phalcon/volt-sublime-textmate/zip/master"
+            }],
+            "donate": null,
+            "description": "Volt syntax highlight for Sublime Text 2/Textmate",
+            "homepage": "https://github.com/phalcon/volt-sublime-textmate"
+        }, {
+            "name": "Xdebug Client",
+            "issues": "https://github.com/martomo/SublimeTextXdebug/issues",
+            "authors": [
+                "martomo"
+            ],
+            "buy": null,
+            "previous_names": [],
+            "labels": [
+                "php",
+                "xdebug"
+            ],
+            "readme": "https://raw.githubusercontent.com/martomo/SublimeTextXdebug/master/README.md",
+            "releases": [{
+                "date": "2014-06-15 19:15:10",
+                "version": "2014.06.15.19.15.10",
+                "sublime_text": "*",
+                "platforms": [
+                    "*"
+                ],
+                "url": "https://codeload.github.com/martomo/SublimeTextXdebug/zip/master"
+            }],
+            "donate": null,
+            "description": "Xdebug debugger client for Sublime Text 2 and 3",
+            "homepage": "https://github.com/martomo/SublimeTextXdebug"
+        }]
+    },
+    "schema_version": "3.0.0"
+}
